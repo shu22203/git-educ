@@ -1,3 +1,4 @@
 I'm shu.
 I love Toyama Lab!
 branch issueA
+branch issueB
