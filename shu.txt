@@ -1,2 +1,3 @@
 I'm shu.
 I love Toyama Lab!
+branch issueB
